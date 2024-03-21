@@ -2,7 +2,7 @@
 This project is focused on implementing various image blurring and filtering techniques using Python. It provides functionalities to apply box blur, Gaussian blur, and median filtering to images. The project includes code for generating synthetic images with diagonal lines and applying these filters to them, demonstrating the effects visually.
 
 - [Features](#Features)
-- [How to Use](#How to Use)
+- [How_to_Use](#How_to_Use)
 - [Authors](#Authors)
 
 ## Features
@@ -11,7 +11,7 @@ This project is focused on implementing various image blurring and filtering tec
 - **Median Filtering**: Utilizes median filtering to remove noise from images.
 - **Visualization**: Provides visual comparisons of original and blurred images using Matplotlib.
 
-  ## How to Use
+  ## How_to_Use
 1. Clone the Repository: Clone this repository to your local machine using git clone https://github.com/omar-adel1/Image-Filters.git.
 2. Install Dependencies: Make sure you have Python installed on your machine along with the necessary libraries listed in requirements.txt. You can install them using pip install -r requirements.txt.
 3. Run the Code: Execute the app.py script to see the demonstration of image blurring and filtering techniques.
